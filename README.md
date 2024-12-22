@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Bohn
-- 👀 I’m interested in ... Front  End development, making new connections, living a digital nomad lifestyle, mentoring and developing the future leaders of tommorow. 
+- 👀 I’m interested in ... Front  End development, making new connections, living a digital nomad lifestyle, mentoring and developing the future leaders of tomorrow. 
 - 🌱 I’m currently learning ... Git, Bootstrap, Typescript, MongoDB, Next JS. 
 - 📫 How to reach me ...brandonbohn@yahoo.com
 
